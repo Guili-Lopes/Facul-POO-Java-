@@ -12,7 +12,6 @@ A disciplina de **POO** tem como foco ensinar os conceitos e práticas relaciona
 - Herança e polimorfismo
 - Interfaces e abstração
 - Tratamento de exceções
-- Coleções e APIs em Java
 
 ## 🚀 Tecnologias utilizadas
 
