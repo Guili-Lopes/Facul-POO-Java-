@@ -1,15 +1,21 @@
-Projetos de Orientação a Objetos em Java
+# Repositório de Atividades - Programação Orientada a Objetos (POO)
 
-Este repositório contém uma coleção de projetos desenvolvidos durante a disciplina de Orientação a Objetos na faculdade. Cada arquivo dentro da pasta main representa um projeto diferente, abordando diversos conceitos e técnicas de programação orientada a objetos utilizando a linguagem Java.
-Estrutura do Repositório
+Bem-vindo ao repositório que contém as minhas atividades desenvolvidas durante a disciplina **Programação Orientada a Objetos (POO)**!  
+Os códigos foram desenvolvidos em **Java**, utilizando a IDE **NetBeans**, com o objetivo de aprimorar o entendimento dos conceitos fundamentais da programação orientada a objetos.
 
-    main/: Esta pasta contém todos os projetos criados ao longo da disciplina. Cada projeto está organizado em subpastas correspondentes, com código-fonte, documentação e exemplos de execução.
+## 📚 Sobre a disciplina
 
-Tecnologias Utilizadas
+A disciplina de **POO** tem como foco ensinar os conceitos e práticas relacionados à programação orientada a objetos. Entre os tópicos abordados, estão:
 
-    Java: Linguagem de programação utilizada para o desenvolvimento dos projetos.
-    Orientação a Objetos: Paradigma de programação que foca em objetos e classes como principais elementos do código.
+- Classes e objetos
+- Encapsulamento
+- Herança e polimorfismo
+- Interfaces e abstração
+- Tratamento de exceções
+- Coleções e APIs em Java
 
-Objetivo dos Projetos
+## 🚀 Tecnologias utilizadas
 
-Os projetos têm como objetivo aplicar conceitos de programação orientada a objetos, como herança, polimorfismo, encapsulamento, abstração, além de padrões de design e boas práticas de desenvolvimento.
+- **Linguagem:** Java  
+- **IDE:** [NetBeans](https://netbeans.apache.org/)  
+- **JDK:** [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-downloads.html)  
